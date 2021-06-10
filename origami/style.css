@@ -1,0 +1,25 @@
+h2{
+    color:blue;
+    font-family: monospace;
+}
+h1{
+    color:midnightblue
+}  
+.header{
+    background:image("bg.png")
+}
+body{
+
+    background-color:thistle
+}
+.grid{
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.grid img{
+border:2px solid black;
+border-radius:50px;
+}
